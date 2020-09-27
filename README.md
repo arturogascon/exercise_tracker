@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the development branch. This branch has localhost URIs.
 
 ## Available Scripts
 
